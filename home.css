@@ -1,0 +1,42 @@
+.home
+{
+	padding-top: 100px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.panel
+{
+	text-align: center;
+}
+
+.row
+{
+	padding: 10px;
+}
+
+.naglowek_tekst
+{
+	font-size: 20pt;
+	text-transform: uppercase;
+}
+
+img.dodaj
+{
+	width: 30px;
+}
+
+.search
+{
+	text-align: right;
+}
+
+#lupa
+{
+	width: 30px;
+}
+
+.okres
+{
+	font-size: 16pt;
+}
